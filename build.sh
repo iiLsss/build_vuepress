@@ -9,6 +9,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/iiLsss/bjapp_docs.git master:gh-pages
+git push -f https://github.com/iiLsss/build_vuepress.git master:gh-pages
 
 cd -
