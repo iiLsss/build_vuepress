@@ -1,4 +1,6 @@
 module.exports = {
+  base: '/build_vuepress/',
+  dest: 'dist',
   title: 'iiLsss测试页',
   description: '测试测试参考参考',
   themeConfig: {
